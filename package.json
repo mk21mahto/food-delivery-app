@@ -1,0 +1,15 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "This is a Food Delivery app by Manish Kumar",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Manish Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
