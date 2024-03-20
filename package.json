@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is a Food Delivery app by Manish Kumar",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "keywords": [],
